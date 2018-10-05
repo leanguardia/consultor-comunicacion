@@ -2516,7 +2516,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 25px;
   margin-top: -14px;
   position: absolute;
-  margin-left: -20px;
+  margin-left: -38px;
 }
 
 .single-price .price-bottom .primary-btn {
@@ -2616,8 +2616,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #f53f51;
 }
 
+.single-course .list-group {
+  margin-left: 15px;
+  width: 85%;
+}
+
+.single-course .list-group-item {
+  background-color: #f9f9ff;
+}
+
 .single-course .details {
-  padding: 5px 30px 30px 30px;
+  padding: 5px 30px 30px 5px;
 }
 
 .single-course .details h4 {
