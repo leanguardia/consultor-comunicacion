@@ -50,7 +50,7 @@
 }
 
 body {
-  color: #777777;
+  color: #191919;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -2520,7 +2520,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-price .price-bottom .primary-btn {
-  margin-top: 20px;
+  /* margin-top: 20px; to display a price number above the button */ 
   background: #222;
   color: #fff;
   text-transform: capitalize;
@@ -2617,7 +2617,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-course .list-group {
-  margin-left: 15px;
+  margin-left: 6px;
   width: 85%;
 }
 
@@ -2741,6 +2741,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
+  color: #999999;
   padding-top: 100px;
   background-color: #222222;
 }
